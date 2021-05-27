@@ -35,8 +35,8 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+<a href="https://github.com/udamadu11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udamadu11&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
@@ -45,6 +45,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/udara-madumalka-20a7a1168/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="madu12dara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="madu12dara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-madu12dara@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
