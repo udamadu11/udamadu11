@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studyied Information System at University of Colombo School Of Computing.
-- 💼 &nbsp; Working as a Software Development Associate at Azend Technologies Private Limited.
+- 💼 &nbsp; Working as a Software Development Associate at Aiken Labs Private Limited.
 - 🌱 &nbsp; Learning more about React, Systems Design and Data Science.
 - ✍️ &nbsp; Pursuing Graphic Design and coding as hobbies.
 
